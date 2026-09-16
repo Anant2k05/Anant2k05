@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" height="3" alt=""/>
+<img src="assets/hero-divider.svg" width="100%" height="6" alt=""/>
 
 <sub>&nbsp;SECURE&nbsp;&nbsp;/&nbsp;&nbsp;ANALYSE&nbsp;&nbsp;/&nbsp;&nbsp;AUTOMATE&nbsp;&nbsp;/&nbsp;&nbsp;LEARN&nbsp;&nbsp;/&nbsp;&nbsp;REPEAT&nbsp;</sub>
 
