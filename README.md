@@ -10,7 +10,7 @@
 
 ### `CYBERSECURITY` × `AI / ML` × `DATA ANALYTICS`
 
-B.Tech CSE (Cyber Security) student at SRM University, KTR — building security-focused
+B.Tech CSE (Cyber Security) student at SRM Institute of Science and Technology, KTR — building security-focused
 systems, analytical tools, and practical projects at the intersection of cybersecurity, AI, and data.
 
 <img src="assets/divider.svg" width="100%" height="3" alt=""/>
@@ -272,6 +272,5 @@ $ echo "Keep learning. Keep building. Keep securing."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=E11D2E)](https://linkedin.com/in/anant-s-kushwaha-24310b1a1)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=E11D2E)](https://github.com/Anant2k05)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=E11D2E)](mailto:singhanant327@gmail.com)
 
 </div>
